@@ -1,11 +1,15 @@
 .array-container {
-  position: absolute;
-  left: 100px;
-  /* top: 100px; */
+  /* center the bars */
+  margin: 3% auto;
 }
 
 .array-bar {
   width: 2px;
   display: inline-block;
   margin: 0 1px;
+
+}
+
+.button-container {
+  margin: 3% auto;
 }
